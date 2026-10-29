@@ -1,1 +1,1 @@
-# riwaq-academy.
+riwaq-academy
